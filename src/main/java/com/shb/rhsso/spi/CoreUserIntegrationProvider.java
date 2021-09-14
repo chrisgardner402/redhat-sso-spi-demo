@@ -1,4 +1,4 @@
-package com.shb.gfep.spi;
+package com.shb.rhsso.spi;
 
 import org.keycloak.credential.CredentialInput;
 import org.keycloak.credential.CredentialInputValidator;
@@ -13,7 +13,6 @@ public class CoreUserIntegrationProvider
     @Override
     public void close() {
         // TODO Auto-generated method stub
-
     }
 
     @Override

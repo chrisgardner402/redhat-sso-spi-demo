@@ -1,4 +1,4 @@
-package com.shb.gfep.spi;
+package com.shb.rhsso.spi;
 
 import org.keycloak.component.ComponentModel;
 import org.keycloak.models.KeycloakSession;
